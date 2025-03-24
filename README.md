@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mí:
 🔭 Actualmente como QA Tester encargado de automatización de procesos<br>🌱 Con ganas de aprender más en este entorno<br>🔨 React - Next - Flutter - C# - Laravel - FastAPI - Flask - Python<br>📌 Web y Mobile Apps, APIS Restful<br>🌐 Desarrollador FrontEnd con experiencia en Backend y QA<br>   
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dannymdb01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-dávila) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mdavilab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdavilabarrancos@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdavila-2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Frase
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
